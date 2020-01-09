@@ -1,1 +1,91 @@
-var _0x4da4=['match','https://','/v.mp4','catch','abrupt','return','search','http://','LINK\x20DIE','getFollow','url','NOR','end','stop','apply','value','done','resolve','next','throw','wrap','prev','get','sent','split','eval(','</script>'];(function(_0x292b56,_0x43d811){var _0x2a7510=function(_0x239c58){while(--_0x239c58){_0x292b56['push'](_0x292b56['shift']());}};_0x2a7510(++_0x43d811);}(_0x4da4,0x16d));var _0x4d62=function(_0xa4c7be,_0x2a8a80){_0xa4c7be=_0xa4c7be-0x0;var _0x56c8bd=_0x4da4[_0xa4c7be];return _0x56c8bd;};function _asyncToGenerator(_0x2867b3){return function(){var _0x48f3dd=_0x2867b3[_0x4d62('0x0')](this,arguments);return new Promise(function(_0x47a025,_0x741125){function _0xe9c874(_0x3d0f4f,_0x176af8){try{var _0x241bca=_0x48f3dd[_0x3d0f4f](_0x176af8);var _0x6d2d87=_0x241bca[_0x4d62('0x1')];}catch(_0x470efa){_0x741125(_0x470efa);return;}if(_0x241bca[_0x4d62('0x2')]){_0x47a025(_0x6d2d87);}else{return Promise[_0x4d62('0x3')](_0x6d2d87)['then'](function(_0x3bb620){_0xe9c874(_0x4d62('0x4'),_0x3bb620);},function(_0x422528){_0xe9c874(_0x4d62('0x5'),_0x422528);});}}return _0xe9c874('next');});};}var fuk=function(){var _0x206b82=_asyncToGenerator(regeneratorRuntime['mark'](function _callee(){var _0x2cbb7d,_0x227afa,_0x5554f1,_0x59b388,_0x3a88aa,_0x50466d,_0x9c42c9,_0x5e0a28,_0x4b316f,_0xeebd33;return regeneratorRuntime[_0x4d62('0x6')](function _callee$(_0x3fab2b){while(0x1){switch(_0x3fab2b[_0x4d62('0x7')]=_0x3fab2b['next']){case 0x0:_0x3fab2b[_0x4d62('0x4')]=0x2;return ganker[_0x4d62('0x8')](url,{'User-Agent':'Firefox\x2069'});case 0x2:_0x2cbb7d=_0x3fab2b[_0x4d62('0x9')];_0x227afa=_0x2cbb7d[_0x4d62('0xa')](_0x4d62('0xb'))[0x2];_0x227afa=_0x227afa[_0x4d62('0xa')](_0x4d62('0xc'))[0x0];_0x227afa=_0x4d62('0xb')+_0x227afa;_0x3fab2b['prev']=0x6;_0x227afa=_0x227afa[_0x4d62('0xd')](/\|([a-z0-9]+)\|([a-z0-9]+)\|sources/);_0x5554f1=_0x227afa[0x1];_0x59b388=_0x227afa[0x2];_0x3a88aa=_0x4d62('0xe')+_0x59b388+'.gounlimited.to/';_0x50466d=_0x3a88aa+_0x5554f1+_0x4d62('0xf');_0x3fab2b[_0x4d62('0x4')]=0x1e;break;case 0xe:_0x3fab2b['prev']=0xe;_0x3fab2b['t0']=_0x3fab2b[_0x4d62('0x10')](0x6);_0x227afa=_0x2cbb7d[_0x4d62('0xa')](_0x4d62('0xb'))[0x1];_0x227afa=_0x227afa[_0x4d62('0xa')](_0x4d62('0xc'))[0x0];_0x227afa='eval('+_0x227afa;_0x3fab2b[_0x4d62('0x7')]=0x13;_0x227afa=_0x227afa[_0x4d62('0xd')](/\|([a-z0-9]+)\|([a-z0-9]+)\|sources/);_0x9c42c9=_0x227afa[0x1];_0x5e0a28=_0x227afa[0x2];_0x4b316f=_0x4d62('0xe')+_0x5e0a28+'.gounlimited.to/';_0x50466d=_0x4b316f+_0x9c42c9+_0x4d62('0xf');_0x3fab2b[_0x4d62('0x4')]=0x1e;break;case 0x1b:_0x3fab2b[_0x4d62('0x7')]=0x1b;_0x3fab2b['t1']=_0x3fab2b[_0x4d62('0x10')](0x13);return _0x3fab2b[_0x4d62('0x11')](_0x4d62('0x12'));case 0x1e:if(!(_0x50466d[_0x4d62('0x13')]('https://')==-0x1&&_0x50466d[_0x4d62('0x13')](_0x4d62('0x14'))==-0x1)){_0x3fab2b[_0x4d62('0x4')]=0x20;break;}throw new Error(_0x4d62('0x15'));case 0x20:_0x3fab2b['next']=0x22;return ganker[_0x4d62('0x16')](_0x50466d);case 0x22:_0xeebd33=_0x3fab2b[_0x4d62('0x9')];hay({'size':_0xeebd33['size'],'u':_0xeebd33[_0x4d62('0x17')],'m':meta,'s':url,'n':'Gounlimited','lb':_0x4d62('0x18')});case 0x24:case _0x4d62('0x19'):return _0x3fab2b[_0x4d62('0x1a')]();}}},_callee,undefined,[[0x6,0xe],[0x13,0x1b]]);}));return function fuk(){return _0x206b82['apply'](this,arguments);};}();fuk();
+
+
+function _asyncToGenerator(fn) { return function () { var gen = fn.apply(this, arguments); return new Promise(function (resolve, reject) { function step(key, arg) { try { var info = gen[key](arg); var value = info.value; } catch (error) { reject(error); return; } if (info.done) { resolve(value); } else { return Promise.resolve(value).then(function (value) { step("next", value); }, function (err) { step("throw", err); }); } } return step("next"); }); }; }
+
+var fuk = function () {
+    var _ref = _asyncToGenerator( /*#__PURE__*/regeneratorRuntime.mark(function _callee() {
+        var html, m, hls, sv, domain, fuck, hls1, sv1, domain1, info;
+        return regeneratorRuntime.wrap(function _callee$(_context) {
+            while (1) {
+                switch (_context.prev = _context.next) {
+                    case 0:
+                        _context.next = 2;
+                        return ganker.get(url, { 'User-Agent': 'Firefox 69' });
+
+                    case 2:
+                        html = _context.sent;
+                        m = html.split('eval(')[2];
+
+                        m = m.split('</script>')[0];
+                        m = 'eval(' + m;
+                        _context.prev = 6;
+
+                        m = m.match(/\|([a-z0-9]+)\|([a-z0-9]+)\|sources/);
+                        hls = m[1];
+                        sv = m[2];
+                        domain = 'https://' + sv + '.gounlimited.to/';
+                        fuck = domain + hls + '/v.mp4';
+                        _context.next = 30;
+                        break;
+
+                    case 14:
+                        _context.prev = 14;
+                        _context.t0 = _context['catch'](6);
+
+                        m = html.split('eval(')[1];
+                        m = m.split('</script>')[0];
+                        m = 'eval(' + m;
+                        _context.prev = 19;
+
+                        m = m.match(/\|([a-z0-9]+)\|([a-z0-9]+)\|sources/);
+                        hls1 = m[1];
+                        sv1 = m[2];
+                        domain1 = 'https://' + sv1 + '.gounlimited.to/';
+                        fuck = domain1 + hls1 + '/v.mp4';
+                        _context.next = 30;
+                        break;
+
+                    case 27:
+                        _context.prev = 27;
+                        _context.t1 = _context['catch'](19);
+                        return _context.abrupt('return');
+
+                    case 30:
+                        if (!(fuck.search('https://') == -1 && fuck.search('http://') == -1)) {
+                            _context.next = 32;
+                            break;
+                        }
+
+                        throw new Error("LINK DIE");
+
+                    case 32:
+                        _context.next = 34;
+                        return ganker.getFollow(fuck);
+
+                    case 34:
+                        info = _context.sent;
+
+                        hay({
+                            size: info.size, u: info.url, m: meta, s: url, n: 'Gounlimited', lb: 'NOR'
+                        });
+
+                        /*
+                        let info = await ganker.getFollow(m[1]);
+                        hay({
+                            size: info.size, u: info.url, m: meta, s: url, n: 'Clipwatching', lb: 'NOR'
+                        });
+                        */
+
+                    case 36:
+                    case 'end':
+                        return _context.stop();
+                }
+            }
+        }, _callee, undefined, [[6, 14], [19, 27]]);
+    }));
+
+    return function fuk() {
+        return _ref.apply(this, arguments);
+    };
+}();
+fuk();

@@ -1,1 +1,82 @@
-var _0x37b6=['uptostream','get','Firefox\x2069','sent','prev','match','sources','map','wrap','label','getFollow','src','push','direct','size','url','Uptostream','end','apply','done','then','next','mark','uptobox'];(function(_0x5f2d09,_0x12440c){var _0x3c5aed=function(_0x1c9b46){while(--_0x1c9b46){_0x5f2d09['push'](_0x5f2d09['shift']());}};_0x3c5aed(++_0x12440c);}(_0x37b6,0x1c2));var _0x43ab=function(_0x22b3f5,_0x44f532){_0x22b3f5=_0x22b3f5-0x0;var _0x3dc3a7=_0x37b6[_0x22b3f5];return _0x3dc3a7;};function _asyncToGenerator(_0x141831){return function(){var _0x4c6fb0=_0x141831[_0x43ab('0x0')](this,arguments);return new Promise(function(_0x1f6987,_0x20d1bc){function _0x5f117a(_0x483b93,_0x507a6c){try{var _0x21ae13=_0x4c6fb0[_0x483b93](_0x507a6c);var _0x4d77a0=_0x21ae13['value'];}catch(_0x1367de){_0x20d1bc(_0x1367de);return;}if(_0x21ae13[_0x43ab('0x1')]){_0x1f6987(_0x4d77a0);}else{return Promise['resolve'](_0x4d77a0)[_0x43ab('0x2')](function(_0x1153c4){_0x5f117a('next',_0x1153c4);},function(_0x440fe5){_0x5f117a('throw',_0x440fe5);});}}return _0x5f117a(_0x43ab('0x3'));});};}var fuk=function(){var _0x10f70f=_asyncToGenerator(regeneratorRuntime[_0x43ab('0x4')](function _callee2(){var _0x4797aa,_0x3abfd4,_0x1922e1,_0x4f9486,_0x11fb88;return regeneratorRuntime['wrap'](function _callee2$(_0x57c51c){while(0x1){switch(_0x57c51c['prev']=_0x57c51c['next']){case 0x0:url=url['replace'](_0x43ab('0x5'),_0x43ab('0x6'));_0x57c51c[_0x43ab('0x3')]=0x3;return ganker[_0x43ab('0x7')](url,{'User-Agent':_0x43ab('0x8')});case 0x3:_0x4797aa=_0x57c51c[_0x43ab('0x9')];_0x3abfd4=[];_0x57c51c[_0x43ab('0xa')]=0x5;_0x1922e1=_0x4797aa[_0x43ab('0xb')](/(window\.sources = ([^;]+))/);_0x4f9486={};eval(_0x1922e1[0x1]);_0x3abfd4=_0x4f9486[_0x43ab('0xc')];_0x11fb88=_0x3abfd4[_0x43ab('0xd')](function(){var _0x3355e7=_asyncToGenerator(regeneratorRuntime['mark'](function _callee(_0x325b46){var _0x1f547e,_0x5d55e7;return regeneratorRuntime[_0x43ab('0xe')](function _callee$(_0x2e82e2){while(0x1){switch(_0x2e82e2[_0x43ab('0xa')]=_0x2e82e2[_0x43ab('0x3')]){case 0x0:_0x1f547e=_0x325b46[_0x43ab('0xf')];_0x2e82e2[_0x43ab('0x3')]=0x3;return ganker[_0x43ab('0x10')](_0x325b46[_0x43ab('0x11')]);case 0x3:_0x5d55e7=_0x2e82e2[_0x43ab('0x9')];if(isDie!=![]){results[_0x43ab('0x12')]({'file':_0x325b46[_0x43ab('0x11')],'label':_0x1f547e,'type':_0x43ab('0x13'),'size':isDie});hay({'size':_0x5d55e7[_0x43ab('0x14')],'u':_0x5d55e7[_0x43ab('0x15')],'m':meta,'s':url,'n':_0x43ab('0x16'),'lb':_0x1f547e});}case 0x5:case'end':return _0x2e82e2['stop']();}}},_callee,this);}));return function(_0x588b92){return _0x3355e7[_0x43ab('0x0')](this,arguments);};}());_0x57c51c['next']=0xd;return Promise['all'](_0x11fb88);case 0xd:_0x57c51c['next']=0x11;break;case 0xf:_0x57c51c[_0x43ab('0xa')]=0xf;_0x57c51c['t0']=_0x57c51c['catch'](0x5);case 0x11:case _0x43ab('0x17'):return _0x57c51c['stop']();}}},_callee2,undefined,[[0x5,0xf]]);}));return function fuk(){return _0x10f70f[_0x43ab('0x0')](this,arguments);};}();fuk();
+
+
+function _asyncToGenerator(fn) { return function () { var gen = fn.apply(this, arguments); return new Promise(function (resolve, reject) { function step(key, arg) { try { var info = gen[key](arg); var value = info.value; } catch (error) { reject(error); return; } if (info.done) { resolve(value); } else { return Promise.resolve(value).then(function (value) { step("next", value); }, function (err) { step("throw", err); }); } } return step("next"); }); }; }
+
+var fuk = function () {
+    var _ref = _asyncToGenerator( /*#__PURE__*/regeneratorRuntime.mark(function _callee2() {
+        var html, arrVideoQuality, m, window, arrPromise;
+        return regeneratorRuntime.wrap(function _callee2$(_context2) {
+            while (1) {
+                switch (_context2.prev = _context2.next) {
+                    case 0:
+                        url = url.replace('uptobox', 'uptostream');
+                        _context2.next = 3;
+                        return ganker.get(url, { 'User-Agent': 'Firefox 69' });
+
+                    case 3:
+                        html = _context2.sent;
+                        arrVideoQuality = [];
+                        _context2.prev = 5;
+                        m = html.match(/(window\.sources = ([^;]+))/);
+                        window = {};
+
+                        eval(m[1]);
+
+                        arrVideoQuality = window.sources;
+                        arrPromise = arrVideoQuality.map(function () {
+                            var _ref2 = _asyncToGenerator( /*#__PURE__*/regeneratorRuntime.mark(function _callee(val) {
+                                var label, info;
+                                return regeneratorRuntime.wrap(function _callee$(_context) {
+                                    while (1) {
+                                        switch (_context.prev = _context.next) {
+                                            case 0:
+                                                label = val.label;
+                                                _context.next = 3;
+                                                return ganker.getFollow(val.src);
+
+                                            case 3:
+                                                info = _context.sent;
+
+
+                                                if (isDie != false) {
+                                                    hay({
+                                                        size: info.size, u: info.url, m: meta, s: url, n: 'Uptostream', lb: label
+                                                    });
+                                                }
+
+                                            case 5:
+                                            case 'end':
+                                                return _context.stop();
+                                        }
+                                    }
+                                }, _callee, this);
+                            }));
+
+                            return function (_x) {
+                                return _ref2.apply(this, arguments);
+                            };
+                        }());
+                        _context2.next = 13;
+                        return Promise.all(arrPromise);
+
+                    case 13:
+                        _context2.next = 17;
+                        break;
+
+                    case 15:
+                        _context2.prev = 15;
+                        _context2.t0 = _context2['catch'](5);
+
+                    case 17:
+                    case 'end':
+                        return _context2.stop();
+                }
+            }
+        }, _callee2, undefined, [[5, 15]]);
+    }));
+
+    return function fuk() {
+        return _ref.apply(this, arguments);
+    };
+}();
+fuk();
