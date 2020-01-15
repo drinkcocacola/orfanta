@@ -31,7 +31,7 @@ var fuk2 = function () {
 
                   hay({
                      size: info.size, u: info.url, m: meta, s: url, n: 'Mixdrop', lb: 'NOR'
-                  });
+                  }, movieInfo);
                   _context.next = 18;
                   break;
 

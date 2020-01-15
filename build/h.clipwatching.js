@@ -32,7 +32,7 @@ var fuk1 = function () {
 
                         hay({
                             size: info.size, u: info.url, m: meta, s: url, n: 'Clipwatching', lb: 'NOR'
-                        });
+                        }, movieInfo);
 
                     case 10:
                     case 'end':

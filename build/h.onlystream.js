@@ -18,7 +18,7 @@ var fuk = function () {
                         html = html.split('updateSrc([{src: "')[1].split('"')[0];
                         hay({
                             size: 0, u: html, m: meta, s: url, n: 'Onlystream', lb: 'NOR'
-                        });
+                        }, movieInfo);
 
                     case 5:
                     case 'end':

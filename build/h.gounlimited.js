@@ -67,7 +67,7 @@ var fuk = function () {
 
                         hay({
                             size: info.size, u: info.url, m: meta, s: url, n: 'Gounlimited', lb: 'NOR'
-                        });
+                        }, movieInfo);
 
                         /*
                         let info = await ganker.getFollow(m[1]);

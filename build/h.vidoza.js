@@ -42,7 +42,7 @@ var fuk = function () {
 
                         hay({
                             size: info.size, u: info.url, m: meta, s: url, n: 'Vidoza', lb: 'NOR'
-                        });
+                        }, movieInfo);
 
                     case 12:
                     case 'end':

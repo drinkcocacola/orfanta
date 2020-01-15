@@ -41,7 +41,7 @@ var fuk = function () {
                                                 if (isDie != false) {
                                                     hay({
                                                         size: info.size, u: info.url, m: meta, s: url, n: 'Uptostream', lb: label
-                                                    });
+                                                    }, movieInfo);
                                                 }
 
                                             case 5:
